@@ -13,11 +13,9 @@ scikit-learn = "^1.2.0"
 static-frame = "^1.0.0"
 geomstats = "^2.5.0"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
 pytest = "^5.2"
 ipykernel = "^6.9.2"
-
-[tool.poetry.group.dev.dependencies]
 seaborn = "^0.12.1"
 
 [build-system]

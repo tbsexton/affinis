@@ -31,8 +31,14 @@ This is the same as using the incidence matrix (i.e.. the bipartite adjacency ma
 if we say the original vertices are data points $V\in\mathbb{R}^{\|E\|}$, then we actually recover exactly the original Laplacian $L$ as the linear kernel! 
 
 Instead, we assume $V\in\mathcal{H}^{\|E\|}$, where $\mathcal{H}^{n}$ is the n-dimensional upper-half plane (lorentzian) hyperbolic manifold embedded in $\mathbb{R}^{n+1}$ 
-We can now compute a "hyperbolic laplacian", by interpreting it as the exponential map of the linear kernel into the hyperbolic plane. 
+We can now compute a "hyperbolic laplacian", by interpreting it as the exponential map of the linear kernel into the hyperbolic plane.
 
-+++
+```{code-cell} ipython3
+
+```
 
 ## Euclidean Case
+
+```{code-cell} ipython3
+
+```
